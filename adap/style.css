@@ -1,0 +1,32 @@
+article{
+  width: 100%;
+  height: 1100px;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.green{
+  width: 150px;
+  height: 150px;
+  background-color: green;
+}
+.blue{
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+}
+.red{
+  width: 150px;
+  height: 150px;
+  background-color: red;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  
+  
+}
